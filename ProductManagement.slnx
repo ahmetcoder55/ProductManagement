@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProductManagement.Business/ProductManagement.Business.csproj" />
+  <Project Path="ProductManagement.DataAccess/ProductManagement.DataAccess.csproj" />
+  <Project Path="ProductManagement.Entities/ProductManagement.Entities.csproj" />
+  <Project Path="ProductManagement.WebAPI/ProductManagement.WebAPI.csproj" />
+</Solution>
